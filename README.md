@@ -55,8 +55,8 @@ New UI features include a **light/dark/Neon theme switcher**, **system stats pan
 ## Download
 
 - 📦 Latest Release (repo): [pylab-installer](https://github.com/SKT1803/pylab-installer/releases/latest)
-- ⬇️ Windows (.exe): [pylab-1.0.0.exe](https://github.com/SKT1803/pylab-installer/releases/latest/download/pylab-1.0.0.exe)
-- 🌐 Download site: [pylab-download-site](https://pylab-desktop.vercel.app/)
+<!--  - ⬇️ Windows (.exe): [pylab-1.0.0.exe](https://github.com/SKT1803/pylab-installer/releases/latest/download/pylab-1.0.0.exe) -->
+- 🌐 Download: [Download For Windows](https://pylab-desktop.vercel.app/)
 
 ---
 
