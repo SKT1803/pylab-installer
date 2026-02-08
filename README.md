@@ -34,7 +34,7 @@
 
 <div align="center">
 
-# A modern Python compiler and notebook runner for desktop.
+# A Modern Python Compiler and Notebook Runner for Desktop
 
 </div>
 
