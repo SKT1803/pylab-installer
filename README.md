@@ -32,7 +32,7 @@
 
 <div align="center">
 
-# A Modern Python Compiler and Notebook Runner for Desktop
+# A Modern Python IDE and Notebook Runner for Desktop
 
 </div>
 
